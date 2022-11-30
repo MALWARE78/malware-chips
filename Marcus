@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>::..My first webpage..::</title>
+    </head>
+    <body>
+        <img src="images/WIN_20221130_16_42_03_Pro.jpg">
+        <p>My name is <b>Marcus</b>, 
+         and a student of Computer science,
+         Bells University of Technology</p>
+    </body>
+</html>
